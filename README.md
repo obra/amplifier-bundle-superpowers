@@ -31,7 +31,7 @@ Superpowers enforces disciplined development practices:
 Load the superpowers bundle which includes foundation:
 
 ```bash
-amplifier --bundle git+https://github.com/ramparte/superpowers@main
+amplifier bundle add git+https://github.com/ramparte/superpowers@main
 ```
 
 ### Custom Composition
